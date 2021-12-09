@@ -356,42 +356,32 @@ body, html {
 
 .card-cover-img.img1 {
     background: url(../images/img1.jpg);
-    background-size: 314%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position-x: -35px;
-    background-position-y: -59px;
 }
 
 .card-cover-img.img2 {
     background: url(../images/img2.jpg);
-    background-size: 362%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position-x: -212px;
-    background-position-y: -25px;
 }
 
 .card-cover-img.img3 {
     background: url(../images/img3.jpg);
-    background-size: 449%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position-x: -316px;
-    background-position-y: -77px;
 }
 
 .card-cover-img.img4 {
     background: url(../images/img4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position-x: -93px;
-    background-position-y: 0px;
 }
 
 .card-cover-img.img5 {
     background: url(../images/img5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position-x: -83px;
-    background-position-y: 0px;
 }
 
 .card-img, .card-img-top {
