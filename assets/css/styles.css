@@ -546,8 +546,12 @@ ul.small-bullet {
 
 ul.small-bullet li {
     list-style-type: disc;
-    margin: 20px 0px;
+    margin: 10px 0px;
 }
+ul.numberlist li{margin:10px 0;}
+ul.numberlist li:before {
+   content: "\200B";
+ }
 
 table.table-style1 {
     border: 0.5px solid #000000;
@@ -1152,7 +1156,7 @@ a.graylink{
   }
   @-webkit-keyframes textSlideTop{
     from {
-        margin-top: 206px;
+        margin-top: 215px;
     }
   
     to {
@@ -1167,12 +1171,12 @@ a.graylink{
   
     to {
       /* left: auto; */
-      height: 206px;
+      height: 215px;
     }
   }
   @-webkit-keyframes cardSlide{
     from {
-        margin-top: 206px;
+        margin-top: 215px;
     }
   
     to {
