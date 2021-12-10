@@ -152,7 +152,7 @@ body, html {
     /* background: black; */
     height: 323px;
     border: 1px solid;
-    background: url(../images/main.jpg);
+    background: url(../images/main.png);
     background-size: cover;
     z-index: -2;
 }
@@ -163,7 +163,7 @@ body, html {
     /* background: black; */
     height: 150px;
     border: 1px solid;
-    background: url(../images/main.jpg);
+    background: url(../images/main.png);
     background-size: cover;
     z-index: -2;
 }
@@ -355,31 +355,31 @@ body, html {
 }
 
 .card-cover-img.img1 {
-    background: url(../images/img1.jpg);
+    background: url(../images/component1_2x.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card-cover-img.img2 {
-    background: url(../images/img2.jpg);
+    background: url(../images/component2_2x.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card-cover-img.img3 {
-    background: url(../images/img3.jpg);
+    background: url(../images/component3_2x.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card-cover-img.img4 {
-    background: url(../images/img4.jpg);
+    background: url(../images/component4_2x.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card-cover-img.img5 {
-    background: url(../images/img5.jpg);
+    background: url(../images/component5_2x.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
