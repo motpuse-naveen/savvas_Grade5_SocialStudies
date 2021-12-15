@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 756.48 509.28">
     <defs>
-        <style>.cls-1,.cls-5,.cls-6{fill:none;}.cls-2{isolation:isolate;}.cls-3{opacity:0.25;mix-blend-mode:multiply;}.cls-11,.cls-4,.cls-9{fill:#fff;}.cls-11,.cls-5,.cls-6,.cls-9{stroke:#231f20;stroke-miterlimit:10;}.cls-6{stroke-width:3px;}.cls-7{clip-path:url(#clip-path);}.cls-8{clip-path:url(#clip-path-2);}.cls-9{stroke-width:5px;}.cls-10,.cls-12{font-size:26px;fill:#231f20;font-family:Poppins-SemiBold, Poppins;font-weight:600;}.cls-10{letter-spacing:0.01em;}.cls-11{stroke-width:2px;}.cls-12{letter-spacing:0.01em;}</style>
+        <style>.cls-1,.cls-5,.cls-6{fill:none;}.cls-2{isolation:isolate;}.cls-3{opacity:0.25;mix-blend-mode:multiply;}.cls-11,.cls-4,.cls-9{fill:#fff;}.cls-11,.cls-5,.cls-6,.cls-9{stroke:#231f20;stroke-miterlimit:10;}.cls-6{stroke-width:3px;}.cls-7{clip-path:url(#clip-path);}.cls-8{clip-path:url(#clip-path-2);}.cls-9{stroke-width:5px;}.cls-10,.cls-12{font-size:26px;fill:#231f20;font-family:sans-serif; font-weight:600;font-weight:600;}.cls-10{letter-spacing:0.01em;}.cls-11{stroke-width:2px;}.cls-12{letter-spacing:0.01em;}</style>
         <clipPath id="clip-path" transform="translate(-21.6 -51.84)">
             <rect class="cls-1" x="260.17" y="171.05" width="129.88" height="176.81"/>
         </clipPath>
@@ -29,17 +29,17 @@
                 </g>
             </g>
             <ellipse class="cls-9" cx="365.51" cy="232.16" rx="88.18" ry="66.46"/>
-            <text class="cls-10" transform="translate(328.25 234.88)">suffrage</text>
+            <text class="cls-10" transform="translate(315.25 234.88)">suffrage</text>
             <ellipse class="cls-11" cx="229.38" cy="110.07" rx="96.34" ry="50.79"/>
-            <text class="cls-12" transform="translate(163.77 112.79)">vote</text>
+            <text class="cls-12" transform="translate(197.77 112.79)">vote</text>
             <ellipse class="cls-11" cx="490.09" cy="110.07" rx="96.34" ry="50.79"/>
             <text class="cls-10" transform="translate(443.06 112.79)">women</text>
             <ellipse class="cls-11" cx="562.31" cy="306.67" rx="96.34" ry="50.79"/>
-            <text class="cls-10" transform="translate(511.41 309.4)">rights</text>
+            <text class="cls-10" transform="translate(522.41 309.4)">rights</text>
             <ellipse class="cls-11" cx="166.25" cy="306.67" rx="96.34" ry="50.79"/>
             <text class="cls-12" transform="translate(122.04 309.4)">protest</text>
             <ellipse class="cls-11" cx="366.19" cy="397.18" rx="96.34" ry="50.79"/>
-            <text class="cls-10" transform="translate(341.02 399.91)">equal</text>
+            <text class="cls-10" transform="translate(331.02 399.91)">equal</text>
         </g>
     </g>
 </svg>
