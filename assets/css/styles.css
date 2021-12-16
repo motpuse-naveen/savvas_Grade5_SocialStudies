@@ -170,9 +170,9 @@ body, html {
 .banner-bg-small.extrasmall{
     height: 120px;
 }
-#slide-text2 .banner-bg-small {
+/*#slide-text2 .banner-bg-small {
     height: 210px;
-}
+}*/
 .left-side-bar {
     width: 202px;
     position: fixed;
@@ -269,7 +269,7 @@ body, html {
 }
 
 .content-panel .title-wrap .title {
-    font-size: 46px;
+    font-size: 42px;
     font-family: 'poppins-semibold';
     color: #FFFFFF;
     /*margin-bottom: 0;
@@ -485,7 +485,7 @@ body, html {
     font-size: 40px;
     /* width: 100%; */
     border-bottom: 1px solid #000000;
-    margin: 20px 5px;
+    margin: 30px 5px;
     margin-bottom: 10px;
     padding-bottom: 10px;
     /*line-height: 60px;*/
@@ -648,7 +648,7 @@ table.table-style2 .trbg {
 .text-content figure.right-image{
     width: 208px;
     margin: 0;
-    margin-top: -80px;
+    margin-top: -106px;
 
 }
 .text-content figure.right-image img{
