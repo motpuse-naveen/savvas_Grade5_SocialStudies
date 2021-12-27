@@ -87,7 +87,7 @@
         padding-top: 30px;
     }
     .banner-bg{
-        height: 326px;
+        height: 342px;
     }
     
     .banner-bg-small{
@@ -246,7 +246,19 @@
         font-size: 20px;
     }
     .banner-bg {
-        height: 364px;
+        height: 342px;
+    }
+    .banner-bg-small {
+        height: 220px;
+    }
+    .slide-text3 .banner-bg-small {
+        height: 185px;
+    }
+    .slide-text4 .banner-bg-small {
+        height: 200px;
+    }
+    .slide-after-reading .banner-bg-small {
+        height: 200px;
     }
 }
 @media (max-width: 375px) {
@@ -277,6 +289,6 @@
         padding-left: 20px;
     }
     .banner-bg {
-        height: 316px;
+        height: 342px;
     }
 }
