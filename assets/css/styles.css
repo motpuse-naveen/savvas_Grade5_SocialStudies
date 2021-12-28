@@ -1101,7 +1101,9 @@ a.graylink{
     color: #000000;
     display: inherit;
 }
-
+.textCol{
+    color: #000000 !important;
+}
 .card.b0{
     border: 0px;
 }
