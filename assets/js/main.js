@@ -12,6 +12,9 @@ $(document).ready(function () {
         $('body').removeClass('show-focus-outlines');
     });
     setTimeout(function () {
+        $(".cardmarginTop").removeClass("cardmarginTop")
+    },0)
+    setTimeout(function () {
         $(".white-bg").removeClass("white-bg")
         $("body.black").removeClass("black")
     },2000)
@@ -36,11 +39,8 @@ $(document).ready(function () {
         $(".annim4-333").removeClass("annim4-333")
         $(".annim4-444").removeClass("annim4-444")
         $(".annim4-555").removeClass("annim4-555")
-        
         $(".annim-fade").removeClass("annim-fade")
         $(".card-cover-img").removeClass("FixHeight").addClass("MinHeight")
-        
-
         InitCarousel();
     }, 3000)
 });
