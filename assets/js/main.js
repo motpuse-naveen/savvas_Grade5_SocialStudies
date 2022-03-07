@@ -1,3 +1,4 @@
+var lastFocusedElement = null;
 $(document).ready(function () {
     //addAccessibilityRolesAndTab();
     //setTabIndex();
@@ -61,11 +62,14 @@ $(document).on('click', '#btn-discussiontip', function (event) {
     $('.container-fs-popup.discussiontip').ShowElement();
     $('.container-fs-popup.discussiontip .popup-content-title').focus();
     $(".container-fs").HideElement();
+    lastFocusedElement = $(this);
 });
 
 $(document).on('click', '#discussiontipClose', function (event) {
+    event.preventDefault();
     $(".container-fs").ShowElement();
     $("#btn-discussiontip").focus();
+    lastFocusedElement.focus();
     $('.container-fs-popup.discussiontip').HideElement();
 });
 $(document).on("click", "#close-discussiontip", function (event) {
